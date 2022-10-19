@@ -70,6 +70,9 @@ Technologies Used:
 
 -> You can log out anytime and can login again anytime.
 
+![image](https://user-images.githubusercontent.com/93275088/196825148-a920eae7-f0bd-4659-be7c-fcf670be0453.png)
+
+
     Step 3:
 
 -> If you have any query as well as any feedback you can access our Contact Us page.
