@@ -1,5 +1,11 @@
 # social-clone
 
+##Author
+
+--> Name: Dhruv Nayyar
+--> University: Chandigarh University
+--> UID: 21MCC2077
+
 ##Social Media Clone
 
 This project is only made by me, I tried to make a social media clone by using these technologies mentioned below:-
