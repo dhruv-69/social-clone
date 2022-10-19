@@ -90,7 +90,7 @@
           axios.post('https://dhruv-backend-social.herokuapp.com/api/users', user)
             .then(response => {
               //Redirecting to Homepage
-              window.location.replace = "./home.html";
+              window.location.replace ("./home.html");
             })
             .catch(error => console.error(error));
       });
