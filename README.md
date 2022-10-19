@@ -6,10 +6,11 @@
 --> University: Chandigarh University
 --> UID: 21MCC2077
 
-##Social Media Clone
+##Social Media Website
 
-This project is only made by me, I tried to make a social media clone by using these technologies mentioned below:-
-Technologies Used
+This project is only made by me, I tried to make a social media website by using these technologies mentioned below:-
+
+Technologies Used:
 
     Frontend:-
         HTML:- With the help of HTML i have created raw structure of a website.
