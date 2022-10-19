@@ -21,30 +21,32 @@ Technologies Used
 
     register-page.html -> If a user don't have an account before then on this page he/she can easily can make their account.
     
-    ![image](https://user-images.githubusercontent.com/93275088/196815953-cf152085-600a-4856-b184-89525f6860c3.png)
+   ![image](https://user-images.githubusercontent.com/93275088/196817517-876cc9b9-d808-4c46-b9ac-894a4b2b4edf.png)
+
 
     index.html -> This page is for login purpose.
     
-    ![image](https://user-images.githubusercontent.com/93275088/196816027-a7d9d722-cffb-4f05-af4d-cb7bb704642f.png)
+   ![image](https://user-images.githubusercontent.com/93275088/196816027-a7d9d722-cffb-4f05-af4d-cb7bb704642f.png)
 
     home.html -> Homepage of the website.
     
-    ![image](https://user-images.githubusercontent.com/93275088/196816114-3f7c5fc3-9e82-44ef-ae10-c2db0f893537.png)
+   ![image](https://user-images.githubusercontent.com/93275088/196816114-3f7c5fc3-9e82-44ef-ae10-c2db0f893537.png)
 
     profile.html -> Second page of the website.
     
-    ![image](https://user-images.githubusercontent.com/93275088/196816189-d9343ab8-ab68-4c8b-b534-a24928a2cf65.png)
+   ![image](https://user-images.githubusercontent.com/93275088/196816189-d9343ab8-ab68-4c8b-b534-a24928a2cf65.png)
 
     Contact_us.html -> With this page anyone can contact us their query easily.
     
-    ![image](https://user-images.githubusercontent.com/93275088/196816255-0feabc18-4ba3-4125-b783-5be4bdba4c27.png)
+   ![image](https://user-images.githubusercontent.com/93275088/196816255-0feabc18-4ba3-4125-b783-5be4bdba4c27.png)
 
 
 ##Working of Website
 
     Step 1: Register Yourself
     
-    ![image](https://user-images.githubusercontent.com/93275088/196816305-2a82430c-fdfb-468b-9d90-f3662fe9cc6d.png)
+   ![image](https://user-images.githubusercontent.com/93275088/196817753-dea2ef8c-f649-48e2-bcc5-969781a72e31.png)
+
 
 
 -> You can see the data after registring is stored in the database(MongoDB).
@@ -71,7 +73,8 @@ Technologies Used
    --> In Contact Us page you can call us directly.
    --> Can go to our Email side.
     
-    ![image](https://user-images.githubusercontent.com/93275088/196817330-41c8b7b6-4644-4baa-909b-1262d263e419.png)
+![image](https://user-images.githubusercontent.com/93275088/196817824-14363888-1b6f-4d60-9955-cf1f9f8045bf.png)
+
 
 
 ##Features
