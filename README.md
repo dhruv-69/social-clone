@@ -1,6 +1,6 @@
 # social-clone
 
-#Author
+##Author
 
 --> Name: Dhruv Nayyar
 --> University: Chandigarh University
@@ -8,7 +8,7 @@
 
 ##Social Media Website
 
-This project is only made by me, I tried to make a social media website by using these technologies mentioned below:-
+* This project is only made by me, I tried to make a social media website by using these technologies mentioned below:-
 
 Technologies Used:
 
