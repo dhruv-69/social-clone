@@ -1,6 +1,6 @@
 # social-clone
 
-##Author
+#Author
 
 --> Name: Dhruv Nayyar
 --> University: Chandigarh University
