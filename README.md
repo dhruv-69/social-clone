@@ -31,7 +31,7 @@ Technologies Used:
    ![image](https://user-images.githubusercontent.com/93275088/196817517-876cc9b9-d808-4c46-b9ac-894a4b2b4edf.png)
 
 
-    index.html -> This page is for login purpose.
+    index.html -> After registration you can login into your account by using login page.
     
    ![image](https://user-images.githubusercontent.com/93275088/196816027-a7d9d722-cffb-4f05-af4d-cb7bb704642f.png)
 
