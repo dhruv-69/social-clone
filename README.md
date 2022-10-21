@@ -89,7 +89,12 @@ Technologies Used:
 
 ##Features
 
-    Light/dark mode toggle
+    Light/dark mode toggle:
+      * DARK MODE--> 
+    
+   ![image](https://user-images.githubusercontent.com/93275088/197244586-20a59f0f-d8b5-4e84-9130-5d383024cceb.png)
+
     Live previews
     Fullscreen mode
     Cross platform
+    Responsive design
